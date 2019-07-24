@@ -1,1 +1,3 @@
 class.txt
+
+(classes that make the app work such as mainApp, Controller, Model, View, etc...)
