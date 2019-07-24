@@ -1,5 +1,5 @@
 # viptela
-Python Framework for use with Viptela API, automating vManage interaction
+Python MVC Framework for use with Viptela API, automating vManage interaction
 
 About
 
