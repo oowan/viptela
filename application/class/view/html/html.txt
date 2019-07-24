@@ -1,1 +1,3 @@
 html.txt
+
+(templates used by the views)
