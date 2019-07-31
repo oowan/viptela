@@ -9,7 +9,7 @@ from requests.exceptions import ConnectionError
 from . import constants, exceptions, utils
 
 
-class Viptela(object):
+class vManage(object):
     """
     Class for use with Viptela vManage API.
     """
@@ -48,12 +48,13 @@ class Viptela(object):
 
         
         
-        def simple_query(self):
+    def simple_query(self):
             
             """
             https://sdwan-docs.cisco.com/Product_Documentation/Command_Reference/vManage_REST_APIs/vManage_REST_APIs_Overview/vManage_Simple_Query
             """
             
+   
          
             
             
