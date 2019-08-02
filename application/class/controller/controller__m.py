@@ -10,7 +10,7 @@ from . import constants, exceptions, utils
 """
 https://sdwan-docs.cisco.com/Product_Documentation/Command_Reference/vManage_REST_APIs/vManage_REST_APIs_Overview/vManage_Simple_Query
 
-edited the file :
+edited the file 2x :
 
 """
 
